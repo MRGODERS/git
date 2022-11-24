@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hello world4!");
         System.out.println("master 1");
 
+        System.out.println("hot fix 1");
+
     }
 }
