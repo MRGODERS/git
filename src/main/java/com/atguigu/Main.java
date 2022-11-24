@@ -9,5 +9,7 @@ public class Main {
         System.out.println("master 1");
         System.out.println("hot fix 1");
         System.out.println("Hello world5!");
+        System.out.println("Hello world6!");
+
     }
 }
